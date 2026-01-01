@@ -20,3 +20,7 @@ regional growth, and audience preferences.
 1. Clone the repo: `git clone https://github.com/your-username/netflix-trends-analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `notebooks/netflix_analysis.ipynb` in Jupyter.
+image
+Viewership and demographics data
+
+image
