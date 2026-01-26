@@ -19,7 +19,7 @@ regional growth, and audience preferences.
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/DEVI-SAI-2004/Netflix-Trends-Analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open `notebooks/netflix_analysis.ipynb` in Jupyter.
+3. Open`https://github.com/DEVI-SAI-2004/Netflix-Trends-Analysis/blob/23100f6ef312655bad946e998aac4b4e5cfbfe0e/PYTHON%20CODE.py` in Jupyter.
 image
 Viewership and demographics data
 
